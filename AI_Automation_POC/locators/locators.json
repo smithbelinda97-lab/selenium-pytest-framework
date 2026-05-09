@@ -1,0 +1,28 @@
+{
+  "login_page": {
+    "username_input": {
+      "by": "id",
+      "value": "user-name"
+    },
+    "password_input": {
+      "by": "id",
+      "value": "password"
+    },
+    "login_button": {
+      "by": "id",
+      "value": "login-button"
+    }
+  },
+
+  "home_page": {
+    "menu_button": {
+      "by": "id",
+      "value": "react-burger-menu-btn"
+    },
+
+    "logout_link": {
+      "by": "id",
+      "value": "logout_sidebar_link"
+    }
+  }
+}
