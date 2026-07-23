@@ -1,9 +1,10 @@
 # Selenium Pytest Automation Framework
-
-![Python](https://img.shields.io/badge/Python-3.13-blue)
-![Pytest](https://img.shields.io/badge/Pytest-9.0.2-green)
-![Selenium](https://img.shields.io/badge/Selenium-Automation-brightgreen)
-
+![Python](https://img.shields.io/badge/Python-3.13-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-9.0.2-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-4.x-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Page Object Model](https://img.shields.io/badge/Page_Object_Model-POM-purple?style=for-the-badge)
+![HTML Reports](https://img.shields.io/badge/Reports-HTML-success?style=for-the-badge)
+![MIT License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
 This project is a complete Selenium automation framework built using **Python** and **Pytest**.
 It follows the **Page Object Model (POM)** and includes smoke tests, login validation,
